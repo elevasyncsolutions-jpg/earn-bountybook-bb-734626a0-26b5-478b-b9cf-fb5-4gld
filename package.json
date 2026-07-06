@@ -1,0 +1,6 @@
+{
+  "name": "bb-734626a0-26b5-478b-b9cf-fb5",
+  "version": "1.0.0",
+  "description": "Build a generic EventBus class in TypeScript with event registration, removal, a",
+  "private": true
+}
